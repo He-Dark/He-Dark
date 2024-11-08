@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Adriano Gomes
+# 💻 Adriano Gomes
 
 **`Desenvolvedor Front-End`**
 
