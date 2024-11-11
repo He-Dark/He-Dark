@@ -1,4 +1,4 @@
-# ✌🏽 Adriano Gomes
+# 👨🏽‍💻 Adriano Gomes
 
 **`Desenvolvedor Front-End`**
 
@@ -27,6 +27,14 @@ Concluí o ensino médio, tenho curso técnico em informática pela ETEC, Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -46,8 +54,9 @@ Concluí o ensino médio, tenho curso técnico em informática pela ETEC, Atualm
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-Dark&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-Dark&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
+
 
 </p>
 
