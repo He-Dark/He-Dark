@@ -29,6 +29,15 @@ Concluí o ensino médio, tenho curso técnico em informática pela ETEC, Atualm
 
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -42,21 +51,18 @@ Concluí o ensino médio, tenho curso técnico em informática pela ETEC, Atualm
 ### 📊🚀 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=He-Dark&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-Dark&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-
-</p>
-
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200"
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=he-dark&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200"
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=he-dark&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&include_all_commits=true" 
+    />
+</p>   
