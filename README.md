@@ -1,14 +1,14 @@
 <img align="right" height="200" src="https://github.com/He-Dark/He-Dark/blob/main/bemvindo.png?raw=true"  />
 
-###
+---
 
-<h1 align="left">👋 Seja muito bem-vindo!</h1>
+## 👋 Seja muito bem-vindo!
 
-###
+Sou o **Adriano**, um desenvolvedor apaixonado por tecnologia e criatividade!  
+Atualmente, estudo e desenvolvo projetos com foco em **JavaScript para Web**.  
+Como hobby 🎨🕹️, estou estudando **Java** para a criação de **jogos estilo RPG 2D** com muita arte em pixel e dedicação!
 
-<p align="left">Sou o Adriano, um desenvolvedor apaixonado por tecnologia e criatividade!<br>Atualmente, estudo e desenvolvo projetos com foco em JavaScript para Web.<br>Como hobby 🎨🕹️, estou estudando Java para a criação de jogos estilo RPG 2D com muita arte em pixel e dedicação!<br><br>Gosto de desafios, transformar ideias em código e sempre deixar minha marca pessoal em cada projeto.</p>
-
-###
+Gosto de desafios, transformar ideias em código e sempre deixar minha marca pessoal em cada projeto.  
 
 ---
 
