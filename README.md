@@ -1,8 +1,8 @@
 <img align="right" height="200" src="https://github.com/He-Dark/He-Dark/blob/main/bemvindo.png?raw=true"  />
 
----
 
-## 👋 Seja muito bem-vindo!
+
+# 👋 Seja muito bem-vindo!
 
 Sou o **Adriano**, um desenvolvedor apaixonado por tecnologia e criatividade!  
 Atualmente, estudo e desenvolvo projetos com foco em **JavaScript para Web**.  
