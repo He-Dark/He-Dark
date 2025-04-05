@@ -41,7 +41,7 @@ Gosto de desafios, transformar ideias em código e sempre deixar minha marca pes
 ---
 
 <div align="center">
-  <img height="200" src="https://github.com/He-Dark/He-Dark/blob/main/Banner.png?raw=true"  />
+  <img src="https://raw.githubusercontent.com/he-dark/he-dark/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
