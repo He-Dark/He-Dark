@@ -1,53 +1,44 @@
-# 👨🏽‍💻 Adriano Gomes
+<!-- Banner de boas-vindas -->
+<p align="center">
+  <img src="https://github.com/He-Dark/He-Dark/blob/main/bemvindo.png?raw=true" alt="Sejam bem-vindos, meus amigos" height="200"/>
+</p>
 
-**`Desenvolvedor Front-End`**
+---
 
-<h2 align="left">Olá! Me chamo Adriano Almeida Gomes, tenho 24 anos e sou natural do interior de São Paulo. Concluí o ensino médio, tenho curso técnico em informática pela ETEC, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unoeste. Gosto de tecnologia e cada vez mais tenho me aprofundado em programação.</h2>
+## 👋 Seja muito bem-vindo!
 
-###
+Sou o **Adriano**, um desenvolvedor apaixonado por tecnologia e criatividade!  
+Atualmente, estudo e desenvolvo projetos com foco em **JavaScript para Web**.  
+Como hobby 🎨🕹️, estou estudando **Java** para a criação de **jogos estilo RPG 2D** com muita arte em pixel e dedicação!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=he-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=he-dark&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=false" height="160" alt="languages graph"  />
-</div>
+Gosto de desafios, transformar ideias em código e sempre deixar minha marca pessoal em cada projeto.  
 
-###
+---
 
-<img align="right" height="150" src="https://sm.ign.com/ign_br/screenshot/default/4-madara_f5mv.jpg"  />
+## ⚔️ Tecnologias que utilizo
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-right: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-</div>
+---
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/adriano.gomes09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4301F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adriano-gomes-a514b8323/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+## 📫 Como falar comigo?
 
-<br clear="both">
+- 📧 Email: **adriano.dev09@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adriano-gomes-a514b8323/)  
+- 🌐 Portfólio: _Em breve!_
 
-<img src="https://raw.githubusercontent.com/he-dark/he-dark/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<!-- Banner final com o nome -->
+<p align="center">
+  <img src="https://github.com/He-Dark/He-Dark/blob/main/Banner.png?raw=true" alt="Adriano Developer" height="300" width="100%"/>
+</p>
