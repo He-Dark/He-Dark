@@ -40,7 +40,7 @@ Gosto de desafios, transformar ideias em código e sempre deixar minha marca pes
 
 - 📧 Email: **adriano.dev09@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/adriano-gomes-a514b8323/)  
-- 🌐 Portfólio: _Em breve!_
+
 
 ---
 
