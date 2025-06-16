@@ -6,7 +6,7 @@
 
 Sou o **Adriano**, um desenvolvedor apaixonado por tecnologia e criatividade!  
 Atualmente, estudo e desenvolvo projetos com foco em **JavaScript para Web**.  
-Como hobby 🎨🕹️, estou estudando **Java** para a criação de **jogos estilo RPG 2D** com muita arte em pixel e dedicação!
+Como hobby 🎨🕹️, estou aprendendo **Java** para a criação de **jogos estilo RPG 2D** com muita arte em pixel e dedicação!
 
 Gosto de desafios, transformar ideias em código e sempre deixar minha marca pessoal em cada projeto.  
 
